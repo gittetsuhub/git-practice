@@ -1,5 +1,6 @@
 # git-practice
-‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍGit“®‰æuÀ—p‚Å‚·D
-ƒ[ƒJƒ‹ƒŠƒ|‚Å•ÏX
-conflict-remoteã‚ÅXV(ƒRƒ“ƒtƒŠƒNƒg”­¶)
-rebase-practiceƒuƒ‰ƒ“ƒ`‚Å•ÏX(rebaseƒRƒ“ƒtƒŠƒNƒg—p)
+ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»è¬›åº§ç”¨ã§ã™ï¼
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã§å¤‰æ›´
+conflict-remoteä¸Šã§æ›´æ–°(ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆç™ºç”Ÿ)
+rebase-practiceãƒ–ãƒ©ãƒ³ãƒã§å¤‰æ›´(rebaseã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆç”¨)
+rebase pullç”¨
