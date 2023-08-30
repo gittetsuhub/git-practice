@@ -4,4 +4,4 @@
 conflict-remote上で更新(コンフリクト発生)
 rebase-practiceブランチで変更(rebaseコンフリクト用)
 rebase pull用
-stash練習(トラック済み)
+stash練習(2nd変更)
